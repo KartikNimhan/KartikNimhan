@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Nimhan</h1>
 <h3 align="center">🚀 I'm a passionate Data Scientist from India, turning raw data into meaningful insights. With expertise in machine learning, data analysis, and visualization, I love solving complex problems and uncovering hidden patterns. Whether it's predictive modeling, deep learning, or big data analytics, I thrive on working with numbers and algorithms to drive impactful decisions. Always learning, always exploring – because data never stops evolving!</h3>
 
-- 🌱 I’m currently learning **🌱 I'm currently learning Generative AI, Agentic AI, and Azure Cloud, exploring how these technologies can be leveraged for innovative and scalable AI solutions.**
+- 🌱 I’m currently learning **Generative AI, Agentic AI, and Azure Cloud, exploring how these technologies can be leveraged for innovative and scalable AI solutions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KartikNimhan](https://github.com/KartikNimhan)
 
